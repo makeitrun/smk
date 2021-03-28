@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SmkartifactApplication<smkartifact>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.smkgroup.smkartifact.SmkartifactApplication",
+            "projectName": "smkartifact",
+            "args": ""
+        }
+    ]
+}
